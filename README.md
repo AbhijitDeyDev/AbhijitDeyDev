@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbhijitDeyDev
+- 👋 Hi, I’m Abhijit
 - 👀 I’m interested in Web and Mobile App Developement
 - 🌱 I’m currently learning React-Native
 - 💞️ I’m looking to collaborate on JavaScript/TypeScript Frameworks
